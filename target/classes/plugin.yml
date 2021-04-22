@@ -1,0 +1,3 @@
+name: Blockdrop
+main: groseth.bukkit.plugin.blockdrop.Plugin
+version: 0.1
