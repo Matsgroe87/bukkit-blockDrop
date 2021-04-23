@@ -1,3 +1,4 @@
 name: Blockdrop
+api: "0.1"
 main: groseth.bukkit.plugin.blockdrop.Plugin
-version: 0.1
+version: "0.1"
